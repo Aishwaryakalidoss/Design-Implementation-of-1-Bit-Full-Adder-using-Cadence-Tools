@@ -66,8 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
-
+ 
+![exp 5 symbol](https://github.com/user-attachments/assets/2742e1c7-27da-41b8-8964-f5c572f674d5)
 
 
 iv)	Creating the new test cell view
@@ -81,7 +81,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+
+![exp 5](https://github.com/user-attachments/assets/79370502-4793-45dc-b10e-3e5a943c6b44)
 
  
 Analog simulation by SPECTRE.
@@ -99,10 +100,11 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
 
 
- 
+
+ ![exp 5 output](https://github.com/user-attachments/assets/c3cf9f07-bc8a-4070-9889-adb7b2e3125b)
+
 
 Results:
 The design and implementation of the 1-bit full adder using Cadence EDA tools were successfully completed. The simulation results verified the correct operation of the full adder, with accurate sum and carry outputs for all input combinations.
